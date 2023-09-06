@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+joblib
+category_encoders
+scikit-learn==1.0.2
